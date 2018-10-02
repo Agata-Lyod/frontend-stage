@@ -13,7 +13,7 @@ Frontend Stage Community
 
 ## Материалы
 - [Верстка](https://www.mindmeister.com/974906786)
-- [REGRU Code Style](https://github.com/regru/frontend-stage/edit/master/CODESTYLE.md)
+- [REGRU Code Style](https://github.com/regru/frontend-stage/edit/master/CODESTYLE.md) (конфиги лежат в корне)
 
 
 ## Навыки
